@@ -30,7 +30,5 @@ export const ThemeSwitcher = () => {
                 </svg>
             )
         }
-
-
     </button>
 }
